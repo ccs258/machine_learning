@@ -196,6 +196,7 @@
 
 
 ## 参考
+      py代码：/Documents/my_files/机器学习-组队/HMM.ipynb
 
 https://blog.csdn.net/Scythe666/article/details/82021692
 
